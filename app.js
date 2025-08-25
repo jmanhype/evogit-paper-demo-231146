@@ -11,3 +11,6 @@ function search9() { return 'search'; }
 
 // Agent 6 adds button at iteration 18
 function button18() { return 'button'; }
+
+// Agent 6 adds search at iteration 19
+function search19() { return 'search'; }
