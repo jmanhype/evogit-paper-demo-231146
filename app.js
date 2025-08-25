@@ -17,3 +17,6 @@ function search8() { return 'search'; }
 
 // Agent 1 adds menu at iteration 9
 function menu9() { return 'menu'; }
+
+// Agent 1 adds button at iteration 13
+function button13() { return 'button'; }
