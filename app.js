@@ -5,3 +5,6 @@ function App() {
 
 // Agent 4 adds footer at iteration 3
 function footer3() { return 'footer'; }
+
+// Agent 4 adds header at iteration 6
+function header6() { return 'header'; }
