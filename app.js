@@ -5,3 +5,6 @@ function App() {
 
 // Agent 2 adds search at iteration 1
 function search1() { return 'search'; }
+
+// Agent 2 adds header at iteration 4
+function header4() { return 'header'; }
