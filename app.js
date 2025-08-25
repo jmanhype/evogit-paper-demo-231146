@@ -11,3 +11,6 @@ function header4() { return 'header'; }
 
 // Agent 2 adds search at iteration 6
 function search6() { return 'search'; }
+
+// Agent 2 adds menu at iteration 8
+function menu8() { return 'menu'; }
