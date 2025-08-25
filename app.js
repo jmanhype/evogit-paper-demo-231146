@@ -37,3 +37,6 @@ function menu12() { return 'menu'; }
 
 // Agent 3 adds footer at iteration 15
 function footer15() { return 'footer'; }
+
+// Agent 2 adds footer at iteration 18
+function footer18() { return 'footer'; }
