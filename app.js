@@ -25,3 +25,6 @@ function header11() { return 'header'; }
 
 // Agent 5 adds footer at iteration 16
 function footer16() { return 'footer'; }
+
+// Agent 4 adds button at iteration 18
+function button18() { return 'button'; }
