@@ -8,3 +8,6 @@ function header2() { return 'header'; }
 
 // Agent 1 adds footer at iteration 3
 function footer3() { return 'footer'; }
+
+// Agent 1 adds button at iteration 4
+function button4() { return 'button'; }
