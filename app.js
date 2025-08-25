@@ -30,7 +30,16 @@ function search8() { return 'search'; }
 
 // Agent 1 adds menu at iteration 9
 function menu9() { return 'menu'; }
+<<<<<<< HEAD
 >>>>>>> agent-01
 
 // Agent 1 adds footer at iteration 11
 function footer11() { return 'footer'; }
+=======
+
+// Agent 1 adds button at iteration 13
+function button13() { return 'button'; }
+>>>>>>> agent-01
+
+// Agent 1 adds button at iteration 15
+function button15() { return 'button'; }
