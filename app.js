@@ -19,3 +19,6 @@ function button4() { return 'button'; }
 
 // Agent 5 adds header at iteration 5
 function header5() { return 'header'; }
+
+// Agent 0 adds button at iteration 6
+function button6() { return 'button'; }
