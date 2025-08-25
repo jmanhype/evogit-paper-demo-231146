@@ -20,3 +20,6 @@ function header9() { return 'header'; }
 
 // Agent 3 adds menu at iteration 12
 function menu12() { return 'menu'; }
+
+// Agent 3 adds button at iteration 17
+function button17() { return 'button'; }
