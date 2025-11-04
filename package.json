@@ -1,0 +1,36 @@
+{
+  "name": "evogit-paper-demo",
+  "version": "1.0.0",
+  "description": "A demonstration repository for EvoGit paper showcasing autonomous AI-driven code improvements using Claude Code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmanhype/evogit-paper-demo-231146.git"
+  },
+  "keywords": [
+    "evogit",
+    "ai",
+    "claude",
+    "autonomous",
+    "code-improvement",
+    "demo"
+  ],
+  "author": "AI Agent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmanhype/evogit-paper-demo-231146/issues"
+  },
+  "homepage": "https://github.com/jmanhype/evogit-paper-demo-231146#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
